@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const [product, setProduct] = useState({
-    id: '',
+    id: '', 
     name: '',
     os: '',
     price: ''
